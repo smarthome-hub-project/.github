@@ -263,12 +263,13 @@ Cada repositorio tiene su propio README con instrucciones detalladas.
 <div align="center">
 
 ### David Henao Rojas
+Est. Ingeniería Electrónica
 
 [![GitHub](https://img.shields.io/badge/GitHub-dahenaor--source-181717?logo=github)](https://github.com/dahenaor-source)
 
 **Proyecto académico**  
-Estructuras Computacionales  
-Universidad Nacional de Colombia (o tu universidad)
+Estructuras Computacionales 2026-02 
+Universidad Nacional de Colombia 
 
 </div>
 
